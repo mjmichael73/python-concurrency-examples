@@ -1,4 +1,4 @@
-# python-concurrency-examples
+# Python Concurrency Examples
 
 Note: This is a github repository to practice the concurrency concept in Python
 
